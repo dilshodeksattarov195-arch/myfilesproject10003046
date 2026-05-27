@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailserify",
+        "uuid": 2747492,
+        "checksum": "ap1sk"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
